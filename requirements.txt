@@ -1,0 +1,16 @@
+datasets<2.19.0
+transformers>=4.38
+huggingface_hub>=0.20
+soundfile
+librosa
+jiwer
+codecarbon
+thop
+pynvml
+tqdm
+fvcore
+pandas
+numpy
+matplotlib
+seaborn
+torch
